@@ -82,8 +82,6 @@ while (restartGame){
         } else {
             guess = prompt(`Too high. You have ${attempts} attempt(s) left`);
         }
-
-        break;
     }
 
 
